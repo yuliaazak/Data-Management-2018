@@ -1,14 +1,19 @@
 CULTURE
 
 
-Opena Data 
+I. Opena Data 
 
-Реестр прокатных удостоверений фильмов - https://opendata.mkrf.ru/opendata/7705851331-register_movies/#{"version":"5afa9340819d7d05773079d7","tab":"build_table"}
-Сведения о показах фильмов в кинозалах - https://opendata.mkrf.ru/opendata/7705851331-movie_gross/#{"tab":"build_passport","version":"5a8556f5fa52fe6e30940e31"} 
-Мероприятия в сфере культуры - https://opendata.mkrf.ru/opendata/7705851331-events/#{"tab":"build_table","version":"5a21136aeac434e206718f50"}
+1)Реестр национальных фильмов - https://opendata.mkrf.ru/opendata/7705851331-national_film_identities/
+2)Сведения о показах фильмов в кинозалах - https://opendata.mkrf.ru/opendata/7705851331-movie_gross/
+3)Мероприятия в сфере культуры - https://opendata.mkrf.ru/opendata/7705851331-events/
+
+Direct links: 
+1)https://opendata.mkrf.ru/opendata/7705851331-national_film_identities/data-29-structure-5.csv
+2)https://opendata.mkrf.ru/opendata/7705851331-movie_gross/data-3-structure-1.csv
 
 
-Corporate Data
+
+II. Corporate Data
 
 Собственная статистика просмотров медиаматериалов от ivi за конец марта 2018 года - https://cloud.mail.ru/public/KMaX/YAXhsdx27
-
+src: corporate hackcathon (https://github.com/Shorstko/aviahackathon/issues/1)
